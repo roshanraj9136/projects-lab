@@ -1,5 +1,7 @@
 # Projects Lab
 
+**Live Site:** https://projects-lab-roan.vercel.app
+
 Hinglish interview prep site dedicated to every bullet point under **Projects** on my résumé. Includes 60-second pitches, architecture diagrams, deep dives, tough follow-ups, and spaced-repetition flashcards.
 
 ## What's Inside
